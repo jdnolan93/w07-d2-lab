@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+section {
+  margin: 0.5rem auto;
+  width: 50%;
+  padding: 0.5rem 0.8rem;
+  border: 1px solid black;
+  border-radius: 2%;
+  background: darkgray;
+  box-shadow: 5px 5px 5px grey;
+}
+#comments {
+  margin: 0.5rem 0.5rem;
+  padding: 0.5rem 0.8rem;
+  border: 1px solid black;
+  background: lightblue;
+}
+a {
+  text-decoration: none;
+  color: darkblue;
+  font-weight: 800;
+}
+h1 {
+  text-align: center;
+}
